@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Mis redes:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/damian dalto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="damian dalto" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/damian-dalto-0b0a35227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="damian dalto" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
