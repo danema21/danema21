@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">My name is Damian Dalto and i'm a passionate IT student coursing the third year who loves to make stuff come to life</h3>
 
-- 👨‍💻 To get a better grasp of my habilities you can visit my personal webpage wich holds all of my best proyects to date: https://danema21.github.io/Portafolio/](https://danema21.github.io/Portafolio/)
+- 👨‍💻 To get a better grasp of my habilities you can visit my personal webpage wich holds all of my best proyects to date: https://danema21.github.io/Portafolio/
 
 - 📫 If you are interested in working with me you can send a mail to **damianema21@gmail.com**
 
